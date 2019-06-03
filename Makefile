@@ -5,6 +5,7 @@ CXXFLAGS= -g -std=c++11 -Wall -Wconversion -Wextra -pedantic
 
 
 all: main
+	./main
 
 main: ArrayDeque.h
 
